@@ -1,0 +1,32 @@
+
+body {
+    background: #eeeeee;
+    
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+header{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+h1 {background-color: #fcc044}
+h2 {background-color: burlywood;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    text-align: center;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+    margin right: 10px;
+}
+.images {
+  margin-right: 10px;
+  border: 1px, black;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
